@@ -1,0 +1,13 @@
+.click-one,
+.click-two {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.click-one {
+    background-color: #000000;
+    color: #ffffff;
+}
+.click-two {
+    background-color: rgb(255, 255, 0);
+}
